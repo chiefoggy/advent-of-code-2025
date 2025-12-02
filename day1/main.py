@@ -35,4 +35,4 @@ def part2():
                     res += 1
     print(res)
 #got too lazy to try to 'math it out' and just simulated the whole process
-part2()
+part2() #6860
